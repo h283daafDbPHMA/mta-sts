@@ -1,6 +1,5 @@
 version: STSv1
 mode: testing
-mx: 5iixawwtpidwfazfiijurwdhhtuwqmms3swyjhgweewrqufutt2a.mx-verification.google.com
 mx: alt1.aspmx.l.google.com
 mx: alt4.aspmx.l.google.com
 mx: aspmx.l.google.com
